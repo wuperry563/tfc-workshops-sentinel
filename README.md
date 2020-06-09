@@ -4,3 +4,4 @@ This repository contains sample sentinel policies for use in Terraform Cloud wor
 Use with the curriculum available here:
 
 https://hashicorp.github.io/workshops
+lmao
